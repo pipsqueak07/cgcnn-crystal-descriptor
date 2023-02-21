@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CdSiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43329034
+_cell_length_b   6.76602876
+_cell_length_c   5.30269802
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdSiN2
+_chemical_formula_sum   'Cd4 Si4 N8'
+_cell_volume   194.93671719
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.57676937  0.87585913  0.99085124  1
+  Cd  Cd1  1  0.42323063  0.12414087  0.49085124  1
+  Cd  Cd2  1  0.92323063  0.37585913  0.49085124  1
+  Cd  Cd3  1  0.07676937  0.62414087  0.99085124  1
+  Si  Si4  1  0.56238863  0.37520848  0.99361096  1
+  Si  Si5  1  0.43761137  0.62479152  0.49361096  1
+  Si  Si6  1  0.93761137  0.87520848  0.49361096  1
+  Si  Si7  1  0.06238863  0.12479152  0.99361096  1
+  N  N8  1  0.62540943  0.82991930  0.41790490  1
+  N  N9  1  0.37459057  0.17008070  0.91790490  1
+  N  N10  1  0.87459057  0.32991930  0.91790490  1
+  N  N11  1  0.12540943  0.67008070  0.41790490  1
+  N  N12  1  0.53721493  0.42031687  0.31963390  1
+  N  N13  1  0.46278507  0.57968313  0.81963390  1
+  N  N14  1  0.96278507  0.92031687  0.81963390  1
+  N  N15  1  0.03721493  0.07968313  0.31963390  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr3In3N5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53636114
+_cell_length_b   7.54398810
+_cell_length_c   9.20705139
+_cell_angle_alpha   106.27709378
+_cell_angle_beta   107.57469924
+_cell_angle_gamma   95.16034039
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3In3N5
+_chemical_formula_sum   'Sr6 In6 N10'
+_cell_volume   407.83277860
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.80622094  0.42095343  0.60059380  1
+  Sr  Sr1  1  0.19377906  0.57904657  0.39940620  1
+  Sr  Sr2  1  0.67166627  0.86671763  0.88739451  1
+  Sr  Sr3  1  0.32833373  0.13328237  0.11260549  1
+  Sr  Sr4  1  0.65286925  0.63151663  0.19240809  1
+  Sr  Sr5  1  0.34713075  0.36848337  0.80759191  1
+  In  In6  1  0.89912834  0.30883666  0.96493524  1
+  In  In7  1  0.10087166  0.69116334  0.03506476  1
+  In  In8  1  0.72427088  0.94830313  0.56160284  1
+  In  In9  1  0.27572912  0.05169687  0.43839716  1
+  In  In10  1  0.15141425  0.85488017  0.71927298  1
+  In  In11  1  0.84858575  0.14511983  0.28072702  1
+  N  N12  1  0.98933194  0.09176655  0.79580131  1
+  N  N13  1  0.01066806  0.90823345  0.20419869  1
+  N  N14  1  0.86308238  0.69444007  0.49781975  1
+  N  N15  1  0.13691762  0.30555993  0.50218025  1
+  N  N16  1  0.75522533  0.53049761  0.87666849  1
+  N  N17  1  0.24477467  0.46950239  0.12333151  1
+  N  N18  1  0.40826295  0.90934886  0.61363771  1
+  N  N19  1  0.59173705  0.09065114  0.38636229  1
+  N  N20  1  0.31862482  0.75960727  0.91648863  1
+  N  N21  1  0.68137518  0.24039273  0.08351137  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg5(SiN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40176550
+_cell_length_b   5.30680034
+_cell_length_c   12.10971262
+_cell_angle_alpha   90.00000197
+_cell_angle_beta   94.13613083
+_cell_angle_gamma   119.42012524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg5(SiN3)2
+_chemical_formula_sum   'Mg10 Si4 N12'
+_cell_volume   301.33324216
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  1.00000000  0.38995312  0.75000000  1
+  Mg  Mg1  1  0.00000000  0.61004688  0.25000000  1
+  Mg  Mg2  1  0.19291384  0.85258542  0.02294137  1
+  Mg  Mg3  1  0.80708616  0.65967158  0.47705863  1
+  Mg  Mg4  1  0.80708616  0.14741458  0.97705863  1
+  Mg  Mg5  1  0.19291384  0.34032842  0.52294137  1
+  Mg  Mg6  1  0.29121328  0.06895134  0.71866277  1
+  Mg  Mg7  1  0.70878672  0.77773906  0.78133723  1
+  Mg  Mg8  1  0.70878672  0.93104866  0.28133723  1
+  Mg  Mg9  1  0.29121328  0.22226094  0.21866277  1
+  Si  Si10  1  0.57255436  0.93106460  0.58551100  1
+  Si  Si11  1  0.42744564  0.35851024  0.91448900  1
+  Si  Si12  1  0.42744564  0.06893540  0.41448900  1
+  Si  Si13  1  0.57255436  0.64148976  0.08551100  1
+  N  N14  1  0.33605141  0.70999794  0.67712302  1
+  N  N15  1  0.66394859  0.37394653  0.82287698  1
+  N  N16  1  0.66394859  0.29000206  0.32287698  1
+  N  N17  1  0.33605141  0.62605347  0.17712302  1
+  N  N18  1  0.53825777  0.24281287  0.55028096  1
+  N  N19  1  0.46174223  0.70455510  0.94971904  1
+  N  N20  1  0.46174223  0.75718713  0.44971904  1
+  N  N21  1  0.53825777  0.29544490  0.05028096  1
+  N  N22  1  0.91661574  0.02267822  0.62950815  1
+  N  N23  1  0.08338426  0.10606248  0.87049185  1
+  N  N24  1  0.08338426  0.97732178  0.37049185  1
+  N  N25  1  0.91661574  0.89393752  0.12950815  1

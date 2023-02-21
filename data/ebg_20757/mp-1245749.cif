@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ga3Pb3N5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04968431
+_cell_length_b   7.51611265
+_cell_length_c   8.76210390
+_cell_angle_alpha   102.08856197
+_cell_angle_beta   99.14051793
+_cell_angle_gamma   96.34317705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga3Pb3N5
+_chemical_formula_sum   'Ga6 Pb6 N10'
+_cell_volume   380.34411946
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.90244750  0.30969226  0.96579784  1
+  Ga  Ga1  1  0.09755250  0.69030774  0.03420216  1
+  Ga  Ga2  1  0.70173056  0.99939908  0.60320373  1
+  Ga  Ga3  1  0.29826944  0.00060092  0.39679627  1
+  Ga  Ga4  1  0.12745104  0.90984304  0.73131636  1
+  Ga  Ga5  1  0.87254896  0.09015696  0.26868364  1
+  Pb  Pb6  1  0.75666711  0.48234505  0.63647907  1
+  Pb  Pb7  1  0.24333289  0.51765495  0.36352093  1
+  Pb  Pb8  1  0.63416602  0.84638129  0.89268140  1
+  Pb  Pb9  1  0.36583398  0.15361871  0.10731860  1
+  Pb  Pb10  1  0.74748189  0.69184260  0.30809669  1
+  Pb  Pb11  1  0.25251811  0.30815740  0.69190331  1
+  N  N12  1  0.95754303  0.13899742  0.76751581  1
+  N  N13  1  0.04245697  0.86100258  0.23248419  1
+  N  N14  1  0.85652933  0.76825173  0.58854192  1
+  N  N15  1  0.14347067  0.23174827  0.41145808  1
+  N  N16  1  0.81646647  0.53582574  0.90139705  1
+  N  N17  1  0.18353353  0.46417426  0.09860295  1
+  N  N18  1  0.37629751  0.00840352  0.62882115  1
+  N  N19  1  0.62370249  0.99159648  0.37117885  1
+  N  N20  1  0.25812066  0.84850440  0.92487384  1
+  N  N21  1  0.74187934  0.15149560  0.07512616  1

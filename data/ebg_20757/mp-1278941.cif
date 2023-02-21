@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38988002
+_cell_length_b   5.50099183
+_cell_length_c   5.38223031
+_cell_angle_alpha   60.71118996
+_cell_angle_beta   90.00003682
+_cell_angle_gamma   90.00002449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiFeO4
+_chemical_formula_sum   'Ti2 Fe2 O8'
+_cell_volume   139.18131838
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.24470877  0.50000027  0.50000001  1
+  Ti  Ti1  1  0.75528544  0.50000003  0.00000013  1
+  Fe  Fe2  1  0.50000263  0.99999946  0.49999755  1
+  Fe  Fe3  1  0.00000439  0.00000051  0.00000102  1
+  O  O4  1  0.25962759  0.08493516  0.70077184  1
+  O  O5  1  0.74035657  0.08493292  0.21428707  1
+  O  O6  1  0.25962708  0.91506513  0.29922803  1
+  O  O7  1  0.74035724  0.91506710  0.78571315  1
+  O  O8  1  0.50000528  0.40292851  0.29853536  1
+  O  O9  1  0.00001000  0.41503032  0.79250084  1
+  O  O10  1  0.00000982  0.58496959  0.20749929  1
+  O  O11  1  0.50000519  0.59707101  0.70146568  1
